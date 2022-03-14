@@ -1,3 +1,4 @@
 # TestPackage
 
-A description of this package.
+This project is a test package that can be imported by other swift projects
+
