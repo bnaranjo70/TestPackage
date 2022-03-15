@@ -5,6 +5,10 @@ public struct TestPackage {
     }
     
     public func printHello() {
-        print("hello")
+        print(text)
+    }
+    
+    public func printGoodbye() {
+        print("Good Bye")
     }
 }
